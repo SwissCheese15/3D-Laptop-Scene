@@ -1,5 +1,7 @@
 ## 3D Scene of Macbook with Webpage 💻
 
+Safari Version is currently under Construction for Layout issues 👷🚧⚠️
+
 ### Scene
 A 3D WebGL Scene created with THREE.js, React-Three-Fibre and drei.
 
