@@ -1,0 +1,24 @@
+html,
+body,
+#root
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: ivory;
+}
+
+.canvas {
+    touch-action: none;
+}
+
+.html-screen iframe {
+    height: 670px;
+    width: 1000px;
+    border: none;
+    border-radius: 20px;
+    background: white;
+    color: #252a3a;
+}
