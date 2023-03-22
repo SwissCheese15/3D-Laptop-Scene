@@ -10,12 +10,12 @@ https://user-images.githubusercontent.com/110164826/226915645-5a2a7bf2-3272-43ca
 
 
 ### Webpage
-The webpage running on the model for demonstration puropses is another project of me:
+The webpage running on the model is another project of mine:
 
 https://github.com/SwissCheese15/Design-Page-Template
 
 ### Model
-The Macbook Model is a CCO Licence from the pmndrs market.
+The Macbook Model is a CCO Licence from the pmndrs market. </br>
 Big thanks to sriniwasjha for supplying it.
 
-JSX Component generated from Model with https://github.com/pmndrs/gltfjsx
+JSX Component generated from GLTF-model with https://github.com/pmndrs/gltfjsx .
